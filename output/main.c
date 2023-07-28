@@ -1072,8 +1072,9 @@ void delay(int rep)
 {
  for(;rep>0;rep--)
  {
- int i;
- for(i=0; i< 100000;i++)
- {}
+	int i;
+	for(i=0; i< 100000;i++)
+	{	
+	}
  }
 }
