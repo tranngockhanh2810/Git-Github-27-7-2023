@@ -83,7 +83,7 @@ void delay(int rep)
 	}
 }
 
-ADC
+update3
 
 
 
